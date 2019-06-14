@@ -1,4 +1,4 @@
-### Version 0.1.2 (2018-07-16)
+### Version 0.1.3 (2019-06-14)
 
   - fix: remove erroneous ".wav" extensions in list of files
 
